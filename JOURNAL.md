@@ -1,6 +1,6 @@
 # JOURNAL
 ---
-**Date: 17 Jun**
+**Date: 17 Jun, 8.15pm**
 **Time Spent: 1.5hr**
 **What I Did:**
 1. researched some models to use as reference
@@ -23,5 +23,45 @@
 
     [youtube tutorial link](https://www.youtube.com/watch?v=eqajrLeaFB8)
 
-4. Finally found a box/LED template to fix the LEDs in. Will use it to design the base,
+4. Finally found a box/LED template to fix the LEDs in. Will use it to design the base.
+
     [link to the model containing the base (i'm using box.stl from this)](https://makerworld.com/en/models/2776610-led-clicker#profileId-3085159)
+
+---
+
+**Date: 17 Jun, 11:40pm**
+**Time Spent: 3.5hr**
+**What I Did:**
+
+Locked In on CAD case. Almost done with it,
+
+Steps I followed:
+- finally managed to upload the holder.stl file to existing fusion design (which I had just created)
+- measured the holder.stl file, took some time finding how to do it (couldn't locate the measurement tool)
+- found out the stl file is not in center, re-imported it properly
+- made sketch 1 for the outer case + sketch 2 for the inner hole to place holder in
+- extruded them at least 3 times, because I kept messing it up => case looked like case
+- added fillet + chamfer to the case
+- realised i wanted to make 2x2 fidget, not single keycap
+- deleted the fillet + chamfer
+- confused myself for the next 20-30 mins on how to make the other same ones (since there is no dedicated duplicate button)
+- found the obvious answer, just duplicate it and place it together
+- duplicated and placed 4 of them together
+- added fillet + chamfer again
+- realised the thickness of the case is not enough
+- removed the duplicated ones
+- modified inital sketches to increase the thickness
+- added the duplicates again
+- started to add fillet + chamfer again
+- realised i need to make this a pendant => i need to add a hole
+- searched online again for inspiration => settled on cut from inside kinda one
+- found out how to make it (shoutout to gemini for telling me so many do-i-even-need-these steps)
+- made the holde to add pendant ribbon
+- added fillets + chamfers
+- tried rendering the thing
+- realised i missed one edge => added fillet to it
+- took a photo of the completed thing!!!
+
+gonna get it sanity checked now.
+will write BOM and readme properly tomorrow. going to sleep.
+---
