@@ -67,10 +67,14 @@ Steps I followed:
 - realised i missed one edge => added fillet to it
 - took a photo of the completed thing!!!
 
-![screenshot of the case](./images/case_img_1.png)
+screenshot of the case without holder
+![screenshot of the case without holder](./images/day1_case_img1.png)
+screenshot of the case with holder
+![screenshot of the case with holder](./images/day1_case_img2.png)
 
 gonna get it sanity checked now.
 
-will write BOM and readme properly tomorrow. going to sleep.
+will write BOM and readme properly now.
 
 ---
+
