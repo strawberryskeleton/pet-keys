@@ -1,8 +1,11 @@
 # JOURNAL
 ---
 **Date: 17 Jun, 8.15pm**
+
 **Time Spent: 1.5hr**
+
 **What I Did:**
+
 1. researched some models to use as reference
 
     [model 1](https://makerworld.com/en/models/2513119-fidget-clicker-12-combos-satisfying-clicks?from=search#profileId-2764156)
@@ -30,7 +33,9 @@
 ---
 
 **Date: 17 Jun, 11:40pm**
+
 **Time Spent: 3.5hr**
+
 **What I Did:**
 
 Locked In on CAD case. Almost done with it,
@@ -62,6 +67,10 @@ Steps I followed:
 - realised i missed one edge => added fillet to it
 - took a photo of the completed thing!!!
 
+![screenshot of the case](./images/case_img_1.png)
+
 gonna get it sanity checked now.
+
 will write BOM and readme properly tomorrow. going to sleep.
+
 ---
