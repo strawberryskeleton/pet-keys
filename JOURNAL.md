@@ -78,3 +78,23 @@ will write BOM and readme properly now.
 
 ---
 
+**Date: 18 Jun, 10:30am**
+
+**Time Spent: 1hr**
+
+**What I Did:**
+
+made the BOM.
+
+1. made a list of stuff I needed
+2. found each component individually on many many platforms
+3. comapred prices + shipping
+4. didn't find many alternatives for most components
+5. learnt how to make table in Markdown
+6. ultimately used a markdown table generator
+7. calculated prices in usd and totalled them
+
+next step is readme + assembly + adding files
+
+---
+
