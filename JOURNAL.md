@@ -70,7 +70,7 @@ Steps I followed:
 screenshot of the case without holder
 ![screenshot of the case without holder](./images/day1_case_img1.png)
 screenshot of the case with holder
-![screenshot of the case with holder](./images/day1_case_img2.png)
+![screenshot of the case with holder](./images/case_assembled.png)
 
 gonna get it sanity checked now.
 
@@ -98,9 +98,9 @@ next step is readme + assembly + adding files
 
 ---
 
-**Date: 19 Jun, 12:50am**
+**Date: 19 Jun, 1:00am**
 
-**Time Spent: 1hr**
+**Time Spent: 1.25hr**
 
 **What I Did:**
 
@@ -110,3 +110,14 @@ added pictures to the repo
 make + added schematic from kicad
 
 ---
+
+## Total Time Spent: 7.25 hours
+
+## Skills learnt:
+- CAD + fusion360
+- finding resources for a project
+- making + optimising a BOM
+- making a hardware project
+
+
+DESIGN DONE. BUILD JOURNAL TO BE CONTNIUED AHEAD.
