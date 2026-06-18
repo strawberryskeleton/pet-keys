@@ -98,3 +98,15 @@ next step is readme + assembly + adding files
 
 ---
 
+**Date: 19 Jun, 12:50am**
+
+**Time Spent: 1hr**
+
+**What I Did:**
+
+added case files to the repo
+added readme to the repo
+added pictures to the repo
+make + added schematic from kicad
+
+---

@@ -1,6 +1,26 @@
 # pet-keys
 pet your fidget keys like you pet your cat
 
+## Inspiration from:
+![inspiration](./images/inspiration.jpeg)
+
+## Schematics
+> added a pdf file from kicad export in the 'schem' folder
+
+![schem](./images/schem.png)
+
+how it should look like in real
+
+![sample assembly](./images/sample_assembly.jpeg)
+
+## Case - 3D Printed
+
+case assembled with all part needed for it
+![case assembled](./images/case_assembled.png)
+
+case image without holder
+![case without holders](./images/day1_case_img1.png)
+
 
 ## BOM
 | S. | Component                      | Quantity | Price (INR)                          | Price (USD) | Link                                                                                         |
@@ -20,3 +40,12 @@ pet your fidget keys like you pet your cat
 > Note #3: need 5 of the cases to not waste any switches / keycaps / leds / battery. all of the items from the BOM will be used completely
 
 > Note #4: conversion rate might change. one in BOM is as per google on 18 Jun 10:30am IST
+
+> Note #5: cart screenshots added in cart_screenshots folder
+
+
+## Credits
+- made by me
+- 3D case made in Fusion
+- Schem in KiCad
+- sample assembly + circuit from: [https://www.instructables.com/Keyboard-Switch-Keychain/]
